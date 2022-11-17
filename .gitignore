@@ -1,0 +1,4 @@
+# ignore node modules and dockerignore and packagelock
+node_modules
+.dockerignore
+package-lock.json
